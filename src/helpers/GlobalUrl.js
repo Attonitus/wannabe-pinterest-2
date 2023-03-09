@@ -1,3 +1,3 @@
 export const GlobalUrl = {
-    url : "http://localhost:5000/api/v2"
+    url : "https://wannabe-pinterest-2-backend.onrender.com/api/v2"
 }
